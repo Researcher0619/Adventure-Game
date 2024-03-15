@@ -2,7 +2,6 @@
 <html>
 
 <head>
-  <title>Java Adventure Game</title>
 </head>
 
 <body>
